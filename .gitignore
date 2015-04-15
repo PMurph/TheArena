@@ -1,0 +1,7 @@
+/TheArena/Binaries/
+/TheArena/DerivedDataCache/
+/TheArena/Saved/
+/TheArena/Intermediate/
+/TheArena/Content/StarterContent/
+*.sdf
+*.suo

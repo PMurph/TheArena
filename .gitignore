@@ -1,7 +1,12 @@
 /TheArena/Binaries/
 /TheArena/DerivedDataCache/
 /TheArena/Saved/
-/TheArena/Intermediate/
 /TheArena/Content/StarterContent/
-*.sdf
 *.suo
+*.sdf
+*.opensdf
+/TheArena/Intermediate/Build/
+/TheArena/Intermediate/ReimportCache/
+*.bin
+*.obj
+*.pch

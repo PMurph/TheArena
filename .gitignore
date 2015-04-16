@@ -7,6 +7,7 @@
 *.opensdf
 /TheArena/Intermediate/Build/
 /TheArena/Intermediate/ReimportCache/
+/TheArena/Intermediate/ProjectFiles/
 *.bin
 *.obj
 *.pch

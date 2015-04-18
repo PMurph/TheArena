@@ -5,6 +5,7 @@
 *.suo
 *.sdf
 *.opensdf
+/TheArena/Intermediate/Config/
 /TheArena/Intermediate/Build/
 /TheArena/Intermediate/ReimportCache/
 /TheArena/Intermediate/ProjectFiles/
